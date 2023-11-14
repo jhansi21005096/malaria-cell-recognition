@@ -9,7 +9,7 @@ Malaria dataset of 27,558 cell images with an equal number of parasitized and un
 ![output](https://github.com/jhansi21005096/malaria-cell-recognition/blob/main/input-1.png)
 ## Neural Network Model
 
-Include the neural network model diagram.
+![output](https://github.com/jhansi21005096/malaria-cell-recognition/blob/main/input-2.png)
 
 ## DESIGN STEPS
 
