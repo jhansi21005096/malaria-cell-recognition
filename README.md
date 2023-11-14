@@ -174,7 +174,7 @@ plt.show()
 ![output](https://github.com/jhansi21005096/malaria-cell-recognition/blob/main/output-a.png)
 ### Classification Report
 
-Include Classification Report here
+![output](https://github.com/jhansi21005096/malaria-cell-recognition/blob/main/output-b.png)
 
 ### Confusion Matrix
 
