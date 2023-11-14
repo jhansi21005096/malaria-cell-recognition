@@ -182,7 +182,7 @@ plt.show()
 
 ### New Sample Data Prediction
 
-Include your sample cell image input and output of your model.
+![output](https://github.com/jhansi21005096/malaria-cell-recognition/blob/main/output-d.png)
 
 ## RESULT
 The model's performance is evaluated through training and testing, and it shows potential for assisting healthcare professionals in diagnosing malaria more efficiently and accurately.
