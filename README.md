@@ -171,7 +171,7 @@ plt.show()
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-
+![output](https://github.com/jhansi21005096/malaria-cell-recognition/blob/main/output-a.png)
 ### Classification Report
 
 Include Classification Report here
