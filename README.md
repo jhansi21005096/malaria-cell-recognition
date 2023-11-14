@@ -178,7 +178,7 @@ plt.show()
 
 ### Confusion Matrix
 
-Include confusion matrix here
+![output](https://github.com/jhansi21005096/malaria-cell-recognition/blob/main/output-c.png)
 
 ### New Sample Data Prediction
 
